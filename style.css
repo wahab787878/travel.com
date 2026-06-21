@@ -43,7 +43,7 @@ reset {
     box-sizing: border-box;
 }
 .hero {
-    background-image: url('/picture/hero.png');
+    background-image: url('./picture/hero.png');
     background-size: cover;
     background-position: center;
     height: 400px;
@@ -170,7 +170,7 @@ footer .footer-links a:hover {
     text-decoration: underline;
 }
 .page-title {
-    background-image: url('/picture/hero.png');
+    background-image: url('./picture/hero.png');
     height: 400px;
     display: flex;
     align-items: center;
@@ -179,7 +179,7 @@ footer .footer-links a:hover {
     text-align: center;
 }
 .page-title {
-    background-image: url('/picture/hero.png');
+    background-image: url('./picture/hero.png');
     background-size: cover;
     background-position: center;
     height: 400px;
